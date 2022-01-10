@@ -1,6 +1,6 @@
 # lil-chat
 
-a super basic app that allows someone to post to a private wall
+an app to post on your own private wall
 
 used to fork for additional projects & implementations
 
