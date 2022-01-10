@@ -17,4 +17,5 @@ used to fork for additional projects & implementations
 
 
 > Gotta love smooth keyboard animations
+
 ![lil chat keyboard gif](https://uploads-ssl.webflow.com/5f162b0e0ce5746130d59063/61dc8acc4f9fc54eee127143_ezgif.com-gif-maker-4.gif)
