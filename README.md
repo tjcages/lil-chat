@@ -8,7 +8,7 @@ built on [Expo](https://expo.dev)
 
 1. install dependencies 
 ```
-npx expo install
+yarn install
 ```
 
 2. run
