@@ -1,9 +1,22 @@
 # lil-chat
 
-an app to post on your own private wall
+an app to post on your own private wall used to fork for additional projects & implementations
 
-used to fork for additional projects & implementations
+---
 
+built on [Expo](https://expo.dev)
+
+1. install dependencies 
+```
+npx expo install
+```
+
+2. run
+```
+npx expo start
+```
+
+---
 
 > Overview
 
